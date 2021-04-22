@@ -17,7 +17,7 @@ By default, it is map on Control + Right Mouse Button - feel free to change it! 
 - Each clipbaord is saved in a separate txt file in the ^^clipboards^^ subfolder
 - Quick input - prompts a menu to send a text string to active clipboards
 - Clear/ClearAll - deletes a file/files
-- DeselectAll - remove selection of clipboards
+- DeselectAll - removes selection of clipboards
 
 
 
